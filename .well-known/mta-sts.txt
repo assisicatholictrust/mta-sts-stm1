@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: stthomasmore-southend-sch-uk0e.mail.protection.outlook.com
+max_age: 1296000
